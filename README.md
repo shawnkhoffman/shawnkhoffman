@@ -15,6 +15,8 @@ My name is Shawn Hoffman (aka "Obi Shawn Kenobi"). I am a Software Engineer with
 
 
 ## 🌱 I’m currently learning ...
+- C++
+- Unreal Engine
 - Go
 - JavaScript
 
