@@ -14,11 +14,14 @@
 My name is Shawn Hoffman (aka "Obi Shawn Kenobi"). I am a Software Engineer with a specialty in DevOps and Site Reliability Engineering.
 
 ## 🔭 I’m currently working on ...
+- Migrating apps to Kubernetes.
 - Building my own Arch Linux distro.
 - Modding a few games.
 - Building out my rack mounted homelab.
+- My website ([obishawnkenobi.dev](https://obishawnkenobi.dev))
 
 ## 🌱 I’m currently learning ...
+- Pulumi
 - C++
 - Unreal Engine
 - Go
