@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -14,10 +15,11 @@ My name is Shawn Hoffman, and I am a Software Engineer with a specialty in DevOp
 
 ## 🔭 I’m currently working on ...
 - Migrating apps to Kubernetes.
+- Various open source projects.
 - Building my own Arch Linux distro.
 - Modding a few games.
 - Building out my rack mounted homelab.
-- My website ([obishawnkenobi.dev](https://obishawnkenobi.dev))
+- Blogging and documenting various technology solutions on my website ([obishawnkenobi.dev](https://obishawnkenobi.dev))
 
 ## 🌱 I’m currently learning ...
 - Pulumi
@@ -28,14 +30,9 @@ My name is Shawn Hoffman, and I am a Software Engineer with a specialty in DevOp
 ## Some of my GitHub statistics 👇
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shawnkhoffman&theme=dark" alt="Shawn's Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shawnkhoffman&count_private=true&show_icons=true&theme=dark" alt="Shawn's Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnkhoffman&langs_count=10&theme=dark&layout=compact" alt="Shawn's Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawnkhoffman&langs_count=10&count_private=true&show_icons=true&theme=dark&layout=compact" alt="Shawn's Stats"/>
 </p>
-
-- 📫 How to reach me: ...
-- [LinkedIn](https://linkedin.com/in/obishawnkenobi)
-- [Email](mailto:obishawnkenobi@pm.me)
-- Twitter: [@shawnkhoffman](https://twitter.com/shawnkhoffman)
