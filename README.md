@@ -11,7 +11,7 @@
 
 # Hi there 👋
 
-My name is Shawn Hoffman, and I am a Software Engineer with a specialty in DevOps and Site Reliability Engineering.
+My name is Shawn Hoffman, and I am a Software Systems Engineer with a specialty in DevOps and Site Reliability Engineering.
 
 ## 🔭 I’m currently working on ...
 - Migrating apps to Kubernetes.
