@@ -21,7 +21,7 @@ My name is Shawn Hoffman, and I am a Site Reliability Engineer and Christian tec
 - Building my own Arch Linux distro.
 - Modding a few games.
 - Building out my rack mounted homelab.
-- Blogging and documenting various technology solutions on my website ([obishawnkenobi.dev](https://obishawnkenobi.dev))
+- Blogging and documenting my Christian journey 🙏 and various technology solutions on my website ([shawnthesaved.dev](https://shawnthesaved.dev))
 
 ## 🌱 I’m currently learning ...
 - C++
