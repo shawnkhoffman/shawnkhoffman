@@ -15,7 +15,8 @@ My name is Shawn Hoffman, and I am a Site Reliability Engineer.
 
 ## 🔭 I’m currently working on ...
 - Solving problems in Go.
-- Migrating apps to Kubernetes.
+- Building apps on Kubernetes.
+- Making clouds with Terraform & Pulumi.
 - Various open source projects.
 - Building my own Arch Linux distro.
 - Modding a few games.
