@@ -11,7 +11,7 @@
 
 # Hi there 👋
 
-My name is Shawn Hoffman, and I am a Site Reliability Engineer.
+My name is Shawn Hoffman, and I am a Site Reliability Engineer and Christian tech blogger.
 
 ## 🔭 I’m currently working on ...
 - Solving problems in Go.
