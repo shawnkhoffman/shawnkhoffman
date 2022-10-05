@@ -14,6 +14,7 @@
 My name is Shawn Hoffman, and I am a Software Systems Engineer with a specialty in DevOps and Site Reliability Engineering.
 
 ## 🔭 I’m currently working on ...
+- Solving problems in Go.
 - Migrating apps to Kubernetes.
 - Various open source projects.
 - Building my own Arch Linux distro.
@@ -22,10 +23,9 @@ My name is Shawn Hoffman, and I am a Software Systems Engineer with a specialty 
 - Blogging and documenting various technology solutions on my website ([obishawnkenobi.dev](https://obishawnkenobi.dev))
 
 ## 🌱 I’m currently learning ...
-- Pulumi
 - C++
 - Unreal Engine
-- Go
+- All the other things
 
 ## Some of my GitHub statistics 👇
 
