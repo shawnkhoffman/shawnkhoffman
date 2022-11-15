@@ -24,7 +24,6 @@ My name is Shawn Hoffman, and I am a Site Reliability Engineer and Christian tec
 - Blogging and documenting my Christian journey 🙏 and various technology solutions on my website ([shawnthesaved.dev](https://shawnthesaved.dev))
 
 ## 🌱 I’m currently learning ...
-- C++
 - Unreal Engine
 - All the other things
 
