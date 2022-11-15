@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -14,18 +13,24 @@
 My name is Shawn Hoffman, and I am a Site Reliability Engineer and Christian tech blogger.
 
 ## 🔭 I’m currently working on ...
-- Solving problems in Go.
-- Building apps on Kubernetes.
-- Making clouds with Terraform & Pulumi.
-- Various open source projects.
-- Building my own Arch Linux distro.
-- Modding a few games.
-- Building out my rack mounted homelab.
+- Solving problems with Go and Python
+- Building apps on Kubernetes
+- Making clouds with Terraform & Pulumi
+- Various open source projects
+- Building my own Arch Linux distro
+- Modding a few games
+- Building out my rack mounted homelab
 - Blogging and documenting my Christian journey 🙏 and various technology solutions on my website ([shawnthesaved.dev](https://shawnthesaved.dev))
 
 ## 🌱 I’m currently learning ...
 - Unreal Engine
 - All the other things
+
+## 💬 Ask me about ...
+- Enterprise Reliability Engineering and DevOps
+- Building distributed systems
+- Confluent and Apache Kafka
+- Azure, AWS, and OpenStack
 
 ## Some of my GitHub statistics 👇
 
