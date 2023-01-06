@@ -10,7 +10,7 @@
 
 # Hi there 👋
 
-My name is Shawn Hoffman, and I am a Site Reliability Engineer and Christian tech blogger.
+My name is Shawn Hoffman, and I am a Site Reliability Engineer and tech blogger.
 
 ## 🔭 I’m currently working on ...
 - Solving problems with Go and Python
@@ -20,7 +20,6 @@ My name is Shawn Hoffman, and I am a Site Reliability Engineer and Christian tec
 - Building my own Arch Linux distro
 - Modding a few games
 - Building out my rack mounted homelab
-- Blogging and documenting my Christian journey 🙏 and various technology solutions on my website ([shawnthesaved.dev](https://shawnthesaved.dev))
 
 ## 🌱 I’m currently learning ...
 - Unreal Engine
